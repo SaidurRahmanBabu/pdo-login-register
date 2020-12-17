@@ -1,0 +1,42 @@
+.main {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background: #f0f2f5;
+}
+.fbimg{
+	margin-top: 30px;
+}
+.form-wrapper{
+	box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+	background-color: #fff;
+	border-radius: 8px;
+	box-sizing: border-box;
+	padding: 20px;
+	margin: auto 30px;
+}
+.kbform input {
+    font-size: 17px;
+    padding: 10px;
+    height: auto;
+}
+.create-page a {
+	color: #1c1e21;
+}
+.create-page p {
+	font-size: 14px;
+}
+.modal-header{
+	border-bottom: 0 !important;
+	padding: 0 !important;
+}
+.kb-modal-head {
+	border-bottom: 1px solid #dee2e6;
+	padding: 1rem 1rem;
+}
+.kb-modal-head p{
+	margin: 0;
+}
+.kbpos.form-check-input{
+	position: static !important;
+}
